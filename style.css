@@ -64,7 +64,7 @@
   .hover_img p{display:inline-block;}
   .hover_img a span { position:relative; display:none; z-index:99;}
   .hover_img a:hover span { display:block;display:inline-block;}
-  .hover_img a:hover span img {width:110%;height:110%;}
+  .hover_img a:hover span img {width:110%;height:110%;display:inline-block;}
   }
 
 
