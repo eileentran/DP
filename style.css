@@ -23,10 +23,11 @@
   }
 
   .webacc{
-    font-size: .57vh;
+    font-size: .55vh;
   }
   .amp{
-    font-size: 6px;
+    font-size: .8vh;
+    margin-top:-1vh;
   }
   .expdes{
     font-size: .6vh;
