@@ -62,8 +62,9 @@
   .hover_img {display:inline-block;}
   .hover_img a { position:relative;   text-decoration: underline;display:inline-block;}
   .hover_img p{display:inline-block;}
-  .hover_img a span { position:absolute; display:none; z-index:99;left:25rem;top:-10rem;}
-  .hover_img a:hover span { display:block;display:inline-block; }
+  .hover_img a span { position:relative; display:none; z-index:99;}
+  .hover_img a:hover span { display:block;display:inline-block;}
+  .hover_img a:hover span img {width:110%;height:110%;}
   }
 
 
