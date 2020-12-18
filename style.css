@@ -19,17 +19,17 @@
   }
 
   .intersection{
-    font-size: 5px;
+    font-size: .7vh;
   }
 
   .webacc{
-    font-size: 3.9px;
+    font-size: .57vh;
   }
   .amp{
     font-size: 6px;
   }
   .expdes{
-    font-size: 4.3px;
+    font-size: .6vh;
   }
 
   /* Tooltip container */
