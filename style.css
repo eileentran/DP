@@ -79,6 +79,12 @@
 
 
 
+
+
+
+
+
+
   @media (min-width: 501px) and (max-width: 1199px) {
     body{
       margin:5em 10em 5em 10em;
@@ -100,18 +106,18 @@
     }
 
     .intersection{
-      font-size: .55vh;
+      font-size: .8vh;
     }
 
     .webacc{
-      font-size: .5vh;
+      font-size: .8vh;
     }
     .amp{
-      font-size: .7vh;
+      font-size: .8vh;
       margin-top:-1vh;
     }
     .expdes{
-      font-size: .5vh;
+      font-size: .75vh;
     }
 
     /* Tooltip container */
@@ -147,6 +153,13 @@
     .hover_img a:hover span { display:block;display:inline-block;}
     .hover_img a:hover span img {width:110%;height:110%;display:inline-block;}
     }
+
+
+
+
+
+
+
 
 
 
